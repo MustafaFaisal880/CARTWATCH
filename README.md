@@ -150,6 +150,6 @@ Build and serve — you'll get an "Add to Home Screen" prompt on mobile.
 
 ---
 
-## License
 
-MIT — do whatever you want with it.
+<img width="929" height="1254" alt="image" src="https://github.com/user-attachments/assets/a489286d-58d4-4a44-9ef2-6f56f43e7d93" />
+
